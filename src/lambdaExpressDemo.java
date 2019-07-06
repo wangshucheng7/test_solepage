@@ -41,6 +41,7 @@ public class lambdaExpressDemo {
         System.out.println(foo.div(10, 5));
 
         System.out.println(Foo.mv(3, 5));
+        System.out.println("hahahah");
 
     }
 
